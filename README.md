@@ -1,14 +1,14 @@
 # 学习安装黑苹果
 ## 机器信息
 hp envy 13 d025tu
-
+机器轻便外观漂亮 无独显（不浪费） 有指纹识别、SD读卡器（预计均无法驱动）
 - 操作系统            Windows 10 64位 ( DirectX 12 )
 - 处理器              英特尔 Core i5-6200U @ 2.30GHz 双核
 - 主板                惠普 80DF ( 英特尔 PCI 标准主机 CPU 桥 - 100 Series 芯片组 Family/eSPI Controller - 9D48 )
 - 显卡                英特尔 HD Graphics 520 ( 128 MB / 惠普 )
 - 内存                8 GB
 - 主硬盘              闪迪 SD7SN6S-256G-1006 ( 256 GB / 固态硬盘 )
-- 显示器              三星 SDC415A ( 13.3 英寸  )
+- 显示器              三星 SDC415A ( 13.3 英寸 3200×1600 )
 - 声卡                瑞昱  @ 英特尔 High Definition Audio 控制器
 - 网卡                博通 BCM43142 802.11b/g/n / 惠普
 
